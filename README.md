@@ -14,8 +14,8 @@ npm install
 ## Usage
 Once all the dependencies have been installed, you can run the application with either one of the following commands:
 ```bash
-node FindDuplicates
-node FindDuplicates 'absolute_path'
+node findDuplicates
+node findDuplicates 'absolute_path'
 npm run start
 npm run start 'absolute_path'
 

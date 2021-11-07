@@ -1,0 +1,16 @@
+{
+  "name": "findDuplicates",
+  "version": "1.0.0",
+  "description": "CLI to find duplicate files in the hard drive.",
+  "main": "findDuplicates.js",
+  "scripts": {
+    "start": "node findDuplicates"
+  },
+  "author": "Samuel Rabadán Ortín",
+  "license": "ISC",
+  "dependencies": {
+    "md5-file": "5.0.0",
+    "lodash": "^4.11.1"
+  },
+  "devDependencies": {}
+}
